@@ -30,6 +30,7 @@ html, body {
 
 .white-color {
   color: #f0f0f0;
+  font-size: 72px;
 }
 
 
@@ -106,7 +107,7 @@ a:hover, a:active, a:focus {
 #contact, footer {
   position: relative;
   padding-top: 80px;
-  padding-bottom: 80px;
+  padding-bottom: 0px;
 }
 
 #service, #work {
@@ -236,7 +237,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 .about-image-thumb img {
